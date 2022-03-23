@@ -1,6 +1,3 @@
-// API Key 625581a608103e2740b59d94973c7176
-// https://openweathermap.org/api/one-call-api
-
 const $input = $("input")
 const $button = $("button")
 const $aside = $("aside")
